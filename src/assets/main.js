@@ -49,6 +49,3 @@ async function fetchData(urlApi) {
     }
 })();
 
-// `
-
-//         `
